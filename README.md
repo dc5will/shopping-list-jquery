@@ -1,3 +1,5 @@
 # Shopping List App Challenge
 
-This repo contains starter files for the *Shopping List App* challenge.
+## Getting Started
+- npm install -g live-server
+- run `live-server` in terminal
